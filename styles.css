@@ -1,5 +1,5 @@
 body{
-  background-color: #04009a;
+  background-color: black;
 }
 
 .heading{
@@ -38,4 +38,15 @@ body{
 
 .navbar{
   padding: 2.5rem 1.5rem;
+}
+.container-fluid{
+  color: linen;
+}
+
+#size{
+  color: white;
+}
+
+#speed{
+  color: white;
 }
